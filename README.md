@@ -3,6 +3,8 @@ Example of widgets using FBB but based in different JS frameworks
 
 This repo is using [FBB](https://github.com/tcorral/FBB)
 
+This repo is a POC of what can we do just keeping the logic without any framework dependency.
+
 ## How to test it:
 
 1. Checkout this repository.
